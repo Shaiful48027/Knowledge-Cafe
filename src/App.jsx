@@ -1,12 +1,22 @@
 
 import './App.css'
+import Blogs from './components/Blogs/Blogs'
+import Header from './components/header/Header'
 
 function App() {
-
-
   return (
     <>
-      <h1 className='text-6xl bg-red-600'>THis is Heading</h1>
+
+
+      <Header></Header>
+      <Blogs></Blogs>
+
+
+
+
+
+
+
     </>
   )
 }

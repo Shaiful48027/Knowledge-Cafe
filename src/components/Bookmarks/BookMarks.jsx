@@ -19,4 +19,6 @@ const BookMarks = ({bookmarks, readingTimes}) => {
     );
 };
 
+
+
 export default BookMarks;
